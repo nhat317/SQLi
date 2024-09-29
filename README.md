@@ -12,6 +12,8 @@ Run Program and login normally <br>
 ![image](https://github.com/user-attachments/assets/be7584b8-dfc0-4e15-a98b-a84f8798982c) <br>
 
 Exit and try to perform SQL injection attack <br>
+![image](https://github.com/user-attachments/assets/9d816923-2e97-4954-a480-6f3a29591305) <br>
+
 Enter something in `username` TextBox <br>
 Enter these following strings one by one into the `password` TextBox:
 ```
